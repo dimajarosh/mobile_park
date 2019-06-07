@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12171677230",
+    "firebase_url": "https://rozrah-1e07b.firebaseio.com",
+    "project_id": "rozrah-1e07b",
+    "storage_bucket": "rozrah-1e07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12171677230:android:53e22067fa0efa7e",
+        "android_client_info": {
+          "package_name": "com.example.rozrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12171677230-k8l6bogiiigekos51il420idf4ikj1p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rozrah",
+            "certificate_hash": "3c7ab034f0d6024a815e3f4b2214df944327e64b"
+          }
+        },
+        {
+          "client_id": "12171677230-dtlvctlpohc2acukdq410alads74c7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLCMNjrB572-Rsc8qculG1lUNUw9VDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12171677230-dtlvctlpohc2acukdq410alads74c7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
